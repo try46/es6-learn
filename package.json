@@ -1,0 +1,8 @@
+{
+  "name": "learn_es6_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:try46/es6-learn.git",
+  "author": "try46 <popuman61@gmail.com>",
+  "license": "MIT"
+}
